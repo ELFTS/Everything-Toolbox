@@ -116,8 +116,8 @@
 支持开发者的最简单方式是点击页面顶部的星标（⭐），当然更希望大家能投喂我们一杯奶茶或者一个煎饼果子的钱，现在的我们还有许多需要为家内外开销的东西所以真的很苦，呜呜呜，公益项目，需要大家的大力支持啊~
 
 <p style="text-align: center;">
-    <a href="https://api.star-history.com/svg?repos=ELFTS/wwgjx&Date">
-        <img alt="start" width=100% src="https://api.star-history.com/svg?repos=ELFTS/wwgjx&Date"/>
+    <a href="https://api.star-history.com/svg?repos=ELFTS/Everything-Toolbox6&Date">
+        <img alt="start" width=100% src="https://api.star-history.com/svg?repos=ELFTS/Everything-Toolbox6&Date"/>
     </a>
 </p>
 
