@@ -1,4 +1,4 @@
-[万物工具箱 7.0 Beta](https://github.com/ELFTS/Everything-Toolbox7) [万物工具箱Android版](https://github.com/ELFTS/Everything-Toolbox-Mobile)
+[万物工具箱Android版](https://github.com/ELFTS/Everything-Toolbox-Mobile)
 
 
 <div align="center">
